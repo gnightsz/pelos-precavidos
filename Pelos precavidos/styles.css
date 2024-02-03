@@ -1,0 +1,108 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #758d8f;
+
+}
+
+.background-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+header {
+    text-align: center;
+}
+
+.nome-inicio {
+
+    font-family: 'monospace	', monospace;
+    font-size: 700%;
+    margin-bottom: 10px;
+    color: #fff;
+
+}
+
+.slogan-inicio {
+
+    font-family: 'monospace	', monospace;
+    font-size: 200%;
+    color: #fff;
+
+
+}
+
+
+button {
+    padding: 20px;
+    font-size: 20px;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 200px;
+
+
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+
+.hbackground {
+
+    background-size: cover !important;
+
+
+
+
+
+}
+
+
+.bg-cover {
+    min-height: 40vh;
+
+}
+
+.logot {
+    height: 30vh;
+    padding: 20px;
+    margin-bottom: 50px;
+
+
+
+}
+
+.resultado {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 30%;
+
+
+}
+
+
+h1 {
+    font-family: 'monospace	', monospace;
+    font-size: 200%;
+    text-align: center;
+    justify-content: center;
+
+
+}
+
+h2 {
+    font-family: 'monospace	', monospace;
+    font-size: 200%;
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 30%;
+
+}
