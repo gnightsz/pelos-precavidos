@@ -56,7 +56,7 @@ Este projeto é uma introdução básica à lógica de seleção de petshop, pro
 - **Aprimoramento da Lógica:** Adição de funcionalidades como seleção de serviços adicionais, descontos especiais, entre outros.
 - **Suporte a Múltiplos Usuários:** Expansão para atender a diferentes usuários e canis, não ficando limitado ao caso específico do Sr. Eduardo.
 
-Este projeto serve como uma base sólida, permitindo futuras interações e melhorias conforme as necessidades e feedbacks dos usuários. Sua simplicidade atual proporciona um ponto de partida ideal para futuras expansões e desenvolvimentos.
+Este projeto serve como uma base sólida, permitindo futuras iterações e melhorias conforme as necessidades e feedbacks dos usuários. Sua simplicidade atual proporciona um ponto de partida ideal para futuras expansões e desenvolvimentos.
 
 
 <h2> Artes do projeto <h2>
